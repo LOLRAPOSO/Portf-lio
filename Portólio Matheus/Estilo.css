@@ -147,3 +147,14 @@ body {
     justify-content: center;
     gap: 20px;
 }
+.btn-secreto {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 50px 50px;
+    gap: 20px;
+    font-family: 'Eurostile', sans-serif;
+    color:rgb(236, 65, 65);
+    text-shadow: 4px 4px rgb(0, 0, 0);
+    font-size:25px;
+}
