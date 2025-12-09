@@ -7,7 +7,6 @@ body {
     justify-content: center;
     padding: 50px 10rem;
     gap: 50px;
-    
 }
 .mainbox{
     display: grid;
@@ -23,6 +22,7 @@ body {
     height: 350px;
     border-radius: 5px 30px 0px 0px;
     box-shadow: 10px 10px 0px rgb(0, 0, 0);
+    padding: 10px;
 }
 .rainbow2 {
     background-color: rgb(236, 65, 65);
@@ -54,7 +54,7 @@ body {
     display: grid;
     justify-content: center;
     align-items: center;
-    padding: 20px 0px;
+    padding: 10px 0px 10px 0px;
     font-family: 'Eurostile', sans-serif;
     color:rgb(255, 235, 235);
     text-shadow: 4px 4px rgb(0, 0, 0);
@@ -121,7 +121,7 @@ body {
     width: 300px;
     display: grid;
     justify-self: center;
-    padding: 30px 0px 50px 0px;
+    padding: 30px 0px 30px 0px;
 }
 .text2 {
     font-display: grid;
