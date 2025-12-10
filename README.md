@@ -8,3 +8,5 @@ Meu portfólio profissional em HTML para uma atividade avaliativa de faculdade.
 
 - Com a extensão do "Live Server", clique no botão direito inferior "Go Live":
 <img src="https://raw.githubusercontent.com/LOLRAPOSO/Imagens-para-funcionar/main/Captura%20de%20tela%202025-12-09%20012121.png">
+
+### A SENHA DO SITE É: "raposo_oso é legal" !!!!
